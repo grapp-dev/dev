@@ -1,0 +1,16 @@
+{
+  "name": "@grapp/prettier-config",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.1.0",
+  "main": "./src/index.js",
+  "prettier": "./src/index.js",
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.2.0"
+  },
+  "peerDependencies": {
+    "prettier": "3.2.5"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "extends": "./default.json",
+  "compilerOptions": {
+    "jsx": "react-native"
+  }
+}

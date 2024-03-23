@@ -1,0 +1,11 @@
+{
+  "name": "@grapp/ts-config",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.1.0",
+  "peerDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

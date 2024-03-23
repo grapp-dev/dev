@@ -1,0 +1,23 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.buildlog/
+.history
+.svn/
+
+# Editors
+*.iml
+*.ipr
+*.iws
+.atom/
+.idea/
+.vscode/
+
+# Bun
+node_modules/
+.turbo/
+.changeset/
+
