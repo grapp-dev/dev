@@ -3,7 +3,7 @@
   "description": "⚡ Grapp Dev",
   "private": true,
   "version": "0.0.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": "git@github.com:grapp-dev/dev.git",
   "workspaces": ["packages/*"],
   "scripts": {
