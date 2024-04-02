@@ -12,6 +12,8 @@ module.exports = {
   ignorePatterns: [
     'node_modules/',
     'build/',
+    'lib/',
+    'dist/',
     '.eslintrc.js',
     '.prettierrc.js',
     'metro.config.js',
