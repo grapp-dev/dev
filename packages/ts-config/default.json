@@ -17,8 +17,7 @@
     "moduleDetection": "force",
     "noFallthroughCasesInSwitch": true,
     "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noPropertyAccessFromIndexSignature": true
+    "noUnusedParameters": true
   },
   "exclude": ["node_modules"]
 }
