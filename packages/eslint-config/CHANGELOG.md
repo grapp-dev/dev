@@ -1,5 +1,11 @@
 # @grapp/eslint-config
 
+## 0.1.2
+
+### Patch Changes
+
+- add `react` config
+
 ## 0.1.1
 
 ### Patch Changes
